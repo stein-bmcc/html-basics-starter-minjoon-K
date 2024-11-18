@@ -1,0 +1,12 @@
+body{
+    background-color: beige;
+    background-color: wheat;
+}
+p{
+    font-size: 2rem;
+    font-size: 40px;
+}
+img{
+    max-width: 100%;
+    heigh: auto;
+}
